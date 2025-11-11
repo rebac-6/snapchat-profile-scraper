@@ -1,0 +1,4 @@
+# Sample input file for usernames to scrape
+bobbysolez
+johndoe
+janedoe
