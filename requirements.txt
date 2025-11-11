@@ -1,0 +1,4 @@
+requests==2.26.0
+
+snapchat-profile-scraper/.keep
+text# Placeholder for non-code files (e.g., images, etc.)
